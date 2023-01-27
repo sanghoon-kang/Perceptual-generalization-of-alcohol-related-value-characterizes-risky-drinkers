@@ -1,0 +1,27 @@
+{
+    "id": "A6CF5E54",
+    "path": "~/Documents/GitHub/Alcgen/versions/web/analysis/open_data/analysis.R",
+    "project_path": "analysis.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1674767397126.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "446,0",
+        "scrollLine": "436",
+        "docOutlineVisible": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1674824823,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1674824823207,
+    "read_only": false,
+    "read_only_alternatives": []
+}
